@@ -117,11 +117,11 @@ O estudo comparativo entre os algoritmos de força bruta e Shamos-Hoey para o pr
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 <br>
-**ESSE É O DIVIDIR E CONQUISTAR COM 50 PONTOS**
-![Captura de tela 2024-08-19 231008](https://github.com/user-attachments/assets/34447267-9212-4cdd-9e52-7c5aecf10e81)
+**ESSE É O DIVIDIR E CONQUISTAR COM 30 PONTOS**
+![Captura de tela 2024-08-19 233700](https://github.com/user-attachments/assets/9de56b2e-7545-4e4c-9d9e-ba23bf7852cb)
 <br>
-**ESSE É O FORÇA BRUTA COM 50 PONTOS**
-![Captura de tela 2024-08-19 231109](https://github.com/user-attachments/assets/7dc58f84-477e-4eab-a30a-8b2191915d77)
+**ESSE É O FORÇA BRUTA COM 30 PONTOS**
+![Captura de tela 2024-08-19 233738](https://github.com/user-attachments/assets/ff5763a5-d5f0-4816-ba4b-9fa9585aa3ea)
 <br>
 **ESSE É O DIVIDIR E CONQUISTAR COM 400 PONTOS**
 ![Captura de tela 2024-08-19 231132](https://github.com/user-attachments/assets/95fe7aeb-7382-4386-967b-16e64500bfad)
