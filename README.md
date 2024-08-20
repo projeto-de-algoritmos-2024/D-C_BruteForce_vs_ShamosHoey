@@ -126,7 +126,7 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 **ESSE É O DIVIDIR E CONQUISTAR COM 400 PONTOS FPS - 59.88**
 ![Captura de tela 2024-08-19 231132](https://github.com/user-attachments/assets/95fe7aeb-7382-4386-967b-16e64500bfad)
 <br>
-**ESSE É O FORÇA BRUTA COM 400 PONTOS - FPS 2.41** 
+**ESSE É O FORÇA BRUTA COM 400 PONTOS - FPS 2.26** 
 ![Captura de tela 2024-08-19 234738](https://github.com/user-attachments/assets/677fc3c5-779e-4233-8521-fee5803b7c53)
 
 ## Instalação 
