@@ -127,7 +127,7 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 ![Captura de tela 2024-08-19 231132](https://github.com/user-attachments/assets/95fe7aeb-7382-4386-967b-16e64500bfad)
 <br>
 **ESSE É O FORÇA BRUTA COM 400 PONTOS - FPS 2.41** 
-![Captura de tela 2024-08-19 231159](https://github.com/user-attachments/assets/53708a3d-f9cb-4172-be0d-203a1fe6356b)
+![Captura de tela 2024-08-19 234738](https://github.com/user-attachments/assets/677fc3c5-779e-4233-8521-fee5803b7c53)
 
 ## Instalação 
 **Linguagem**: Python<br>
