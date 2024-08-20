@@ -122,14 +122,10 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
 **Linguagem**: Python<br>
-**Framework**: -<br>
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
+O software mostra visualmente a diferença entre o algoritimo por força bruta e o algoritimo ótimo por divisão e conquista, basta apertar a tecla ``` SPACE ``` para alternar entre elas.
+Além disso, na parte superior, é possível visualizar a quantidade de pontos utilizadas e o FPS, o qual está associado diretamente a eficiência do algoritimo.
 
 
 
