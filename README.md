@@ -96,9 +96,6 @@ A prova de corretude do algoritmo Shamos-Hoey baseia-se na análise de como o al
 
 O número de comparações necessárias na faixa $P'$ é reduzido ao ordenar $P'$ pela coordenada $y$. A prova detalha que cada ponto $p$ só precisa ser comparado com no máximo 7 outros pontos (usando a propriedade geométrica de que, dentro de uma faixa de largura $d$, os pontos vizinhos em $y$ podem ser no máximo 7), mantendo o número total de comparações dentro de $O(n)$.
 
-```markdown
-[Espaço reservado para imagem ilustrando a faixa de pontos próximos à linha divisória e a limitação das comparações dentro da faixa]
-```
 
 #### Conclusão da Prova
 
