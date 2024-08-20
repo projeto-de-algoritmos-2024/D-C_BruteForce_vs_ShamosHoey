@@ -136,7 +136,7 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 O software mostra visualmente a diferença entre o algoritimo por força bruta e o algoritimo ótimo por divisão e conquista, basta apertar a tecla ``` SPACE ``` para alternar entre elas.
 Além disso, na parte superior, é possível visualizar a quantidade de pontos utilizadas e o FPS, o qual está associado diretamente a eficiência do algoritimo.
 
-[Link para o vídeo de apresentação do projeto](https://youtu.be/FyiUfEFkPuY).
+[Link para o vídeo de apresentação do projeto](https://youtu.be/N5FD8XSW4k4).
 
 
 
